@@ -1,7 +1,7 @@
 # Employee & HR Analysis
 
 ## Project Overview
-This project analyzes employee and HR data to evaluate workforce distribution,salary costs,attendance, leave usage, and employee performance. THE ANALYSIS AIMS TO IDENTIFY KEY hr trends and provide actionable business recommendations to support better workforce management and decision-making.
+This project analyzes employee and HR data to evaluate workforce distribution,salary costs,attendance, leave usage, and employee performance. The analysis aims to identify key HR trends and provide actionable business recommendations to support better workforce management and decision-making.
 ## Business Problem/ Client Requirement
 The HR team wants to better understand workforce distribution,employee costs,attendance,leave usage,and performance across departments.
 The objective is to use SQL analysis to identify important HR trends,highlight areas that may require management attention,and provide actionable recommendations for improving workforce management and employee performance.
